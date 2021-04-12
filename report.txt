@@ -1,0 +1,10 @@
+Patient's Name :MR.KAMALESH PRASHAD TRIVENI				Age/Sex :27/M
+Ref by Dr. :SELF			Recv on :27.06.20			Repotes :27.06.20
+Tests :BSF.								Sample :BLOOD
+
+
+
+				BIOCHEMISTRY REPORT
+	TESTS			RESULT		UNITS		RANGE
+	B-Sugar-F			95.0		mg/dl		60-110
+
